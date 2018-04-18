@@ -1,0 +1,8 @@
+{
+  "type": "object",
+  "additionalProperties": {
+    "scalar": {
+      "type": [ "integer", "string", "boolean" ]
+    }
+  }
+}
